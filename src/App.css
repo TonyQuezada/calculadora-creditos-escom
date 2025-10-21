@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+/* Paint every other grid row (first row painted). Assumes rows are equal-height (e.g. grid-rows-8).
+	 The pattern repeats every 2 rows: each row = 12.5% (100% / 8), so 2 rows = 25%.
+*/
+.stripe-rows {
+	/* Start transparent for the first row, then paint the second row, repeating every 2 rows */
+	background-image: repeating-linear-gradient(
+		to bottom,
+		transparent 0%,
+		transparent 12.5%,
+		rgb(10,104,150) 12.5%,
+		rgb(10,104,150) 25%
+	);
+	background-repeat: repeat;
+}
