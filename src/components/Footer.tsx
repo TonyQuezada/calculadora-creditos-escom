@@ -1,11 +1,30 @@
 
-export default function Footer(){
+const githubMark = new URL('../assets/github-mark-white.png', import.meta.url).href;
+
+export default function Footer() {
     return (
-        <div className="w-ful h-1/24 bg-gray-600 rounded-xl flex flex-row items-center px-10 py-2">
-            <a href="https://github.com/TonyQuezada/calculadora-creditos-escom" target='_blank' rel='noopener noreferrer' className="h-full hover:opacity-70 cursor-pointer">
-                <img src="./assets/github-mark-white.png" className="h-full"/>
+        <footer className="w-full bg-gray-600 rounded-xl flex items-center px-4 py-2">
+            <a
+                href="https://github.com/TonyQuezada/calculadora-creditos-escom"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Open repository on GitHub"
+                className="flex items-center hover:opacity-70"
+            >
+                <img src={githubMark} alt="GitHub repository" className="h-6 w-6 object-contain" />
             </a>
-            <div className="mx-5 text-sm text-gray-400">Una página por <a href="https://github.com/TonyQuezada" target='_blank' rel='noopener noreferrer' className="font-bold text-gray-300 underline hover:opacity-70 cursor-pointer">Tony Quezada</a></div>
-        </div>
-    )
+
+            <div className="mx-5 text-sm text-gray-200">
+                Una página por{' '}
+                <a
+                    href="https://github.com/TonyQuezada"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-bold underline hover:opacity-70"
+                >
+                    Tony Quezada
+                </a>
+            </div>
+        </footer>
+    );
 }
