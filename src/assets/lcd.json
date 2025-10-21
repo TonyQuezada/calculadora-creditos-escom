@@ -1,0 +1,246 @@
+{
+  "totalCreditos": 360,
+  "materias": [
+    null,
+    {
+      "nombre": "Desarrollo de Habilidades Sociales para la Alta Dirección",
+      "creditos": 6,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Gestión Empresarial",
+      "creditos": 10.5,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Trabajo Terminal II",
+      "creditos": 12,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Estancia Profesional",
+      "creditos": 4.5,
+      "color": "#F15828"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "nombre": "Big Data",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Modelos Econométricos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Trabajo Terminal I",
+      "creditos": 12,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Administración de Proyectos de TI",
+      "creditos": 10.5,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Optativa C",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Optativa D",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    null,
+    null,
+    {
+      "nombre": "Modelado Predictivo",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Procesamiento de Lenguaje Natural",
+      "creditos": 4.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Análisis de Series de Tiempo",
+      "creditos": 4.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Analítica Avanzada de Datos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Optativa A",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Optativa B",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    null,
+    null,
+    {
+      "nombre": "Minería de Datos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Matemáticas Avanzadas para Ciencia de Datos",
+      "creditos": 10.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Procesos Estocásticos",
+      "creditos": 10.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Aprendizaje de Máquina e Inteligencia Artificial",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Analítica y Visualización de Datos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Metodología de la Investigación y Divulgación Científica",
+      "creditos": 7.5,
+      "color": "#10ADE5"
+    },
+    null,
+    null,
+    {
+      "nombre": "Desarrollo de Aplicaciones Web",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Cómputo de Alto Desempeño",
+      "creditos": 9,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Estadística",
+      "creditos": 10.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Base de Datos Avanzadas",
+      "creditos": 10.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Desarrollo de Aplicaciones para Análisis de Datos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Liderazgo Personal",
+      "creditos": 7.5,
+      "color": "#10ADE5"
+    },
+    null,
+    null,
+    {
+      "nombre": "Análisis y Diseño de Algoritmos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Programación para Ciencia de Datos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Probabilidad",
+      "creditos": 10.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Base de Datos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Métodos Numéricos",
+      "creditos": 10.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Finanzas Empresariales",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    null,
+    null,
+    {
+      "nombre": "Algoritmos y Estructuras de Datos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Álgebra Lineal",
+      "creditos": 7.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Cálculo Multivariable",
+      "creditos": 10.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Ética y Legalidad",
+      "creditos": 9,
+      "color": "#10ADE5"
+    },
+    {
+      "nombre": "Fundamentos Económicos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    null,
+    null,
+    null,
+    {
+      "nombre": "Fundamentos de Programación",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Matemáticas Discretas",
+      "creditos": 10.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Cálculo",
+      "creditos": 7.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Comunicación Oral y Escrita",
+      "creditos": 7.5,
+      "color": "#10ADE5"
+    },
+    {
+      "nombre": "Introducción a la Ciencia de Datos",
+      "creditos": 6,
+      "color": "#E5E53C"
+    },
+    null,
+    null
+  ]
+
+}

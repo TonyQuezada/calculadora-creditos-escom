@@ -1,0 +1,269 @@
+{
+  "totalCreditos": 387,
+  "materias": [
+    null,
+    null,
+    {
+      "nombre": "Estancia Profesional",
+      "creditos": 3,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Desarrollo de Habilidades Sociales para la Alta Dirección",
+      "creditos": 3,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Trabajo Terminal II",
+      "creditos": 12,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Gestión Empresarial",
+      "creditos": 7.5,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Liderazgo Personal",
+      "creditos": 7.5,
+      "color": "#10ADE5"
+    },
+    null,
+    null,
+    {
+      "nombre": "Desarrollo de Aplicaciones Móviles Nativas",
+      "creditos": 7.5,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Optativa A2",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Optativa B2",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Trabajo Terminal I",
+      "creditos": 12,
+      "color": "#F15828"
+    },
+    null,
+    {
+      "nombre": "Sistemas Distribuidos",
+      "creditos": 7.5,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Administración de Servicios en Red",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    null,
+    {
+      "nombre": "Sistemas en Chip",
+      "creditos": 7.5,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Optativa A1",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Optativa B1",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Métodos Cuantitativos para la toma de Decisiones",
+      "creditos": 7.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Ingeniería de Software",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Inteligencia Artificial",
+      "creditos": 7.5,
+      "color": "#F15828"
+    },
+    {
+      "nombre": "Aplicaciones para Comunicaciones en Red",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Procesamiento Digital de Señales",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Instrumentación y Control",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Arquitectura de Computadoras",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    null,
+    {
+      "nombre": "Análisis y Diseño de Sistemas",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Formulación y Evaluación de Proyectos Informáticos",
+      "creditos": 6,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Compiladores",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Redes de Computadoras",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Probabilidad y Estadística",
+      "creditos": 9,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Matemáticas Avanzadas para la Ingeniería",
+      "creditos": 9,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Electrónica Analógica",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Diseño de Sistemas Digitales",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Tecnologías para el Desarrollo de Aplicaciones Web",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    null,
+    {
+      "nombre": "Sistemas Operativos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Teoría de la Computación",
+      "creditos": 7.5,
+      "color": "#5EBB47"
+    },
+    null,
+    {
+      "nombre": "Ecuaciones Diferenciales",
+      "creditos": 9,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Circuitos Eléctricos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Fundamentos de Diseño Digital",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Bases de Datos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Finanzas Empresariales",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Paradigmas de Programación",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Análisis y Diseño de Algoritmos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Álgebra Lineal",
+      "creditos": 9,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Cálculo Aplicado",
+      "creditos": 7.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Mecánica y Electromagnetismo",
+      "creditos": 10.5,
+      "color": "#5EBB47"
+    },
+    null,
+    {
+      "nombre": "Ingeniería Ética y Sociedad",
+      "creditos": 9,
+      "color": "#10ADE5"
+    },
+    {
+      "nombre": "Fundamentos Económicos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    {
+      "nombre": "Algoritmos y Estructuras de Datos",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    },
+    null,
+    null,
+    {
+      "nombre": "Cálculo",
+      "creditos": 7.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Análisis Vectorial",
+      "creditos": 7.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Matemáticas Discretas",
+      "creditos": 10.5,
+      "color": "#5EBB47"
+    },
+    {
+      "nombre": "Comunicación Oral y Escrita",
+      "creditos": 7.5,
+      "color": "#10ADE5"
+    },
+    null,
+    {
+      "nombre": "Fundamentos de Programación",
+      "creditos": 7.5,
+      "color": "#E5E53C"
+    }
+  ]
+
+}
