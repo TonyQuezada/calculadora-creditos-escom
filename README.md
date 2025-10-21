@@ -17,7 +17,7 @@ El sitio muestra el **mapa curricular** de la carrera, donde es posible:
   (haciendo clic en el botón del semestre correspondiente).
 
 -  **Elegir cualquiera de las tres carreras de ESCOM**  
-  mediante el botón superiores principales (**ISC**, **IA** o **LCD**).
+  mediante el botón superior principal (**ISC**, **IA** o **LCD**).
 
 ---
 
